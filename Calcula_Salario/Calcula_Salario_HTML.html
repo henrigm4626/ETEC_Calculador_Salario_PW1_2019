@@ -1,0 +1,40 @@
+
+<!--André Luís A. Rodrigues Nº2 1ºC-->
+<!--Henrique G. Marques Nº16 1ºC-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!--Funcionar no Cel-->
+    <link rel="stylesheet" type="text/css" href="Calcula_Salario_CSS.css"> <!--CSS-->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <title>Calculadora de Salário</title>
+
+</head>
+<body>
+    <div id="body">
+        <form>
+			<font color= #1555BE> <h1>Calculadora de Salário</h1> </font>
+
+			<p>Seu Nome:</p>
+            <input type="text" name="nome" id="nome" placeholder="Ex.: Fulano"><br>
+			<p>Número de Dependentes:</p>
+            <input type="number" name="dependentes" id="dependentes" placeholder="Ex.: 2"><br>
+			<p>Horas Trabalhadas:</p>
+            <input type="number" name="horas" id="horas" placeholder="Ex.: 220"><br>
+			<p>Preço da Hora:</p>
+            <input type="number" name="preco" id="preco" placeholder="Ex.: 40"><br>
+            <br>
+
+            <div id="resp" onclick="start()">
+                Pressione <b>"Enter"</b> para continuar...
+            </div>
+
+            <script type="text/javascript" src="Calcula_Salario_JS.js"> </script> <!--JavaScript-->
+        </form>
+
+    </div>
+</body>
+</html>

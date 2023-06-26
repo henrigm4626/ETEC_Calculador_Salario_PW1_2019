@@ -1,0 +1,57 @@
+
+/*André Luís A. Rodrigues Nº2 1ºC*/
+/*Henrique G. Marques Nº16 1ºC*/
+
+*{
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+/*Imagem de Fundo*/
+body{
+    text-align: center;
+    background-image:url(img/background1.jpg); 
+					  background-attachment: fixed;
+					  background-repeat: no-repeat; 
+					  background-size: 100%;
+}
+
+div#body{
+    border: 1px solid;
+    border-radius: 5px;
+    background-color: #898787;
+}
+
+h1 {
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+/*Resposta*/
+div#resp{
+    border-radius: 5px; 
+    background-color: rgba(0, 0, 0, 0.20);
+}
+
+input{
+    border-radius: 5px;
+    padding: 4px 8px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgba(0, 0, 0, .8);
+    background-color: rgba(255, 255, 255, .4);
+    height: 32px;
+    height: 2rem
+}
+
+/*Caixa de Texto*/
+input:focus{ 
+    border-color: #0067b8;
+    background-color: #7E91B0
+}
+
+input::-webkit-input-placeholder{
+    color: rgba(0, 0, 0, .6)
+}
+
+p{
+    text-decoration: underline
+}
