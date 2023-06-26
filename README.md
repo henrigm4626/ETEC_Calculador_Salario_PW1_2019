@@ -16,4 +16,4 @@ Este projeto está registrado aqui como um histórico da minha evolução.
 
 3. Desse modo, aparecerá uma tabela com o valor descontado pelo INSS e IRRF, o salário bruto e o salário líquido com base nas informações fornecidas pelo usuário.
 
-OBS: os valores utilizados para os cálculos do INSS e IRRF estão ajustados de acordo com os valores do ano de 2019.
+⚠️OBS: os valores utilizados para os cálculos do INSS e IRRF estão ajustados de acordo com os valores do ano de 2019.
