@@ -6,14 +6,14 @@ Este projeto está registrado aqui como um histórico da minha evolução.
 
 ## Funcionamento
 
-Ao entrar no site, o usuário é apresentado a uma tela que pede as seguintes informações:
-- Nome do usuário
+1. Ao entrar no site, o usuário é apresentado a uma tela onde deve digitar as seguintes informações:
+- Nome de usuário
 - Número de dependentes
 - Horas trabalhadas
 - Preço da hora trabalhada
 
-Em seguida, o usuário deve pressionar a tecla "Enter". 
+2. Em seguida, o usuário deve pressionar a tecla "Enter". 
 
-Desse modo, aparecerá uma tabela com o valor descontado pelo INSS e IRRF, o salário bruto e o salário líquido.
+3. Desse modo, aparecerá uma tabela com o valor descontado pelo INSS e IRRF, o salário bruto e o salário líquido com base nas informações fornecidas pelo usuário.
 
 OBS: os cálculos para valor do INSS e IRRF estão ajustados de acordo com os valores do ano de 2019.
