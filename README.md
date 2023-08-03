@@ -1,6 +1,6 @@
 # ETEC - Calculador de Salário - Programação Web 1 [2019]
 
-Projeto de um site que calcula o salário do usuário, além do valor do INSS e IRRF sobre esse salário. Foi realizado em 2019 no contexto da disciplina "Programação Web I" pelos alunos Henrique G. Marques e André Luís A. Rodrigues, durante o curso "Técnico em Desenvolvimento de Sistemas" na ETEC.
+Projeto de um site que calcula o salário do usuário, além do valor do INSS e IRRF sobre o mesmo. Foi realizado em 2019 no contexto da disciplina "Programação Web I" pelos alunos Henrique G. Marques e André Luís A. Rodrigues, durante o curso "Técnico em Desenvolvimento de Sistemas" na ETEC.
 
 Este projeto está registrado aqui como um histórico da minha evolução.
 
